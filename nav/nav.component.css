@@ -1,0 +1,23 @@
+nav{
+    width: 180px;
+    float: left;
+    background: #173356;
+    height: 1000px;
+    margin-left: -8px;
+}
+
+ul li{
+    font-family:HelveticaNeue-Medium;
+    font-size:22px;
+    color:#ffffff;
+    letter-spacing:0;
+    text-align:left;
+    float:left;
+}
+
+ul{
+    list-style-type: none;
+}
+img{
+    float: left;
+}

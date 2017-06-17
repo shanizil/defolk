@@ -1,0 +1,138 @@
+main{
+    background: #173356;
+    width: 1069px;
+    height: 1000px;
+    float: left;
+    position: relative;
+}
+div{
+    width: 900px;
+    height: 797px;
+    background: #284262;
+    margin-top: 80px;
+    margin-left: 100px;
+    position: absolute;
+}
+
+div+div{
+    height: 350px;
+    width: 850px;
+    background: #14415d;
+    margin-top: 800px;
+    margin-left: 125px;   
+    position: absolute;
+}
+
+div+div+div{
+    opacity:0.12;
+    border:2px solid #979797;
+    width:600px;
+    height:180px;
+    position: absolute; 
+    margin-top: 680px;
+    margin-left: 120px; 
+    background: #173356;
+}
+div img{
+    width: 35px;
+    height: 31px;
+    margin-top:30px;
+    margin-left: 20px;
+}
+div p{
+    font-family:HelveticaNeue-Bold;
+    font-size:50px;
+    color:#ffffff;
+    letter-spacing:0;
+    margin-left:70px;
+    margin-top: -50px;
+}
+div img+img{
+    border:0 solid #ffffff;
+    width:251.5px;
+    height:2.5px;
+    margin-bottom: -20px;
+    margin-left: 10px;
+}
+div section{
+    background:#ffffff;
+    width:335px;
+    height:150px;
+    background: #284262;
+    position: relative;
+}
+div section img{
+    width:272px;
+    height:253px;
+    margin-left: 60px;
+    margin-top:-20px;
+}
+div section+section{
+    background:#0c1e35;
+    width:336px;
+    height:89px;
+    margin-top:100px;
+    margin-left: 30px;
+}
+div section+section p{
+    font-family:HelveticaNeue-Medium;
+    font-size:20px;
+    color:#ffffff;
+    letter-spacing:0;
+    text-align:left;
+    margin-left: 15px;
+    padding-top:-30px;
+}
+div section+section img{
+    height: 32px;
+    width: 35px;
+    margin-left: 15px;
+    margin-bottom:-60px;
+}
+div section+section p+p{
+    font-family:HelveticaNeue-Light;
+    font-size:15px;
+    color:#ffffff;
+    letter-spacing:0;
+    text-align:left;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+div section+section p+p+p{
+    font-family:HelveticaNeue;
+    font-size:12px;
+    color:#9b9b9b;
+    letter-spacing:0;
+    text-align:left;
+    margin-top:-50px;
+    position:relative;
+}
+div section+section img+img{
+    margin-left: 130px;
+
+}
+div section+section img+img+img{
+    margin-left: 230px;
+    margin-bottom: -43px;
+
+}
+div section+section img+img+img+img{
+    margin-left: 275px;
+    margin-bottom: -25px;
+}
+/*div section+section+section{
+    background:#ffffff;
+    width:335px;
+    height:150px;
+    background: #284262;
+    position: relative;
+    float: left;
+}
+
+div section+section+section img{
+    width:258px;
+    height:253px;
+    margin-left: 450px;
+    padding-bottom: 2000px;
+    position: relative;
+}*/

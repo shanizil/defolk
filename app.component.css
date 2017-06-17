@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'HelveticaNeue-Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Helvetica Neue'), local('HelveticaNeue'), url(http://themes.googleusercontent.com/licensed/font?kit=Lx1xfUTR4qFjwg0Z_pb900DGSpWewu0sZH-jqLz8Q00) format('truetype');
+}
+@font-face {
+  font-family: 'HelveticaNeue-Medium';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Helvetica Neue'), local('HelveticaNeue'), url(http://themes.googleusercontent.com/licensed/font?kit=Lx1xfUTR4qFjwg0Z_pb900DGSpWewu0sZH-jqLz8Q00) format('truetype');
+}
+@font-face {
+  font-family: 'HelveticaNeue-Light';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Helvetica Neue'), local('HelveticaNeue'), url(http://themes.googleusercontent.com/licensed/font?kit=Lx1xfUTR4qFjwg0Z_pb900DGSpWewu0sZH-jqLz8Q00) format('truetype');
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#wrapper{
+    width: 100%;
+}
+.clear{
+    clear: both;
+}
